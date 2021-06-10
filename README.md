@@ -31,8 +31,8 @@
 ## This is a birthday gift for Miss Ava
 * Ava's personal page：https://space.bilibili.com/672346917
 * Please followed Miss Ava, may Saint Diana bless you.
-## software results
-* A hasty birthday gift used to transform the text into graphic shapes to generate a word cloud image.
+## Introduction
+* Make your own word cloud avatar! This is a hasty birthday gift used to transform the text into graphic shapes to generate a word cloud image.
 ## Run the code
 ### prerequisite 
 * Python 3.7 or above
