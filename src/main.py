@@ -13,8 +13,6 @@ path: the origin file path
 words: the words from file
 target: target file path
 '''
-
-
 def drawThePicture(path, words, target):
     # define the font of word in picture
     font = ImageFont.truetype("simsun.ttc", multiple, encoding="UTF-8")
@@ -40,15 +38,12 @@ def drawThePicture(path, words, target):
     # save the target file
     target_avatar.save(target + '\\target.jpg')
 
-
 '''
 use to print the article by constant time delay, the time you can adjust in the begining of code
 words: the word read from file
 '''
-
-
 def delayPrint(words):
-    # counter for the
+    # counter for the new line
     counter = 0
     for w in words:
         time.sleep(timeDelay)
