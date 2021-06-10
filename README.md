@@ -3,7 +3,7 @@
 * 向晚大魔王：https://space.bilibili.com/672346917
 * 给向晚小姐点个关注吧，砰砰砰，求你们了。
 ## 程序用途
-* 一份仓促的生日礼物，用于将文字转换成图形形状，从而生成词云图像。我早头像早就是碗的形状了捏。
+* 一份仓促的生日礼物，用于将文字转换成图形形状，从而生成词云图像。我头像早就是碗的形状了捏。
 ## 运行程序
 ### 预先准备
 * Python 3.7 以上
@@ -39,7 +39,12 @@
 * install NumPy. (reference: https://numpy.org/install/)
 * install Pillow. (reference: https://pillow.readthedocs.io/en/stable/installation.html )
 ### Run
-* Aftrogram struct
+* After config the environment, run the main.py.
+* The resulting image will be in the output folder.
+* The files in input and output can be a very good reference for running the code.
+### Attention
+* Lager image file would cause some unpredicted error, please use some small image(like the avatar), not lager than 1000  * 1000 (pixel).
+## struct
 ### src
 * main.py source code.
 ### input
