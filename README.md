@@ -33,8 +33,8 @@
 * Please followed Miss Ava, may Saint Diana bless you.
 ## Introduction
 * Make your own word cloud avatar! This is a hasty birthday gift used to transform the text into graphic shapes to generate a word cloud image.
-## Run the code
-### prerequisite 
+## Run the Code
+### Prerequisite 
 * Python 3.7 or above
 * install NumPy. (reference: https://numpy.org/install/)
 * install Pillow. (reference: https://pillow.readthedocs.io/en/stable/installation.html )
@@ -44,7 +44,7 @@
 * The files in input and output can be a very good reference for running the code.
 ### Attention
 * Lager image file would cause some unpredicted error, please use some small image(like the avatar), not lager than 1000  * 1000 (pixel).
-## struct
+## File Struct
 ### src
 * main.py source code.
 ### input
