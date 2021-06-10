@@ -39,7 +39,7 @@
 * install NumPy. (reference: https://numpy.org/install/)
 * install Pillow. (reference: https://pillow.readthedocs.io/en/stable/installation.html )
 ### Run
-* After config the environment, run the main.py.
+* After configing the environment, run the main.py.
 * The resulting image will be in the output folder.
 * The files in input and output can be a very good reference for running the code.
 ### Attention
